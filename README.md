@@ -50,7 +50,7 @@ Keep in mind that the schema doesn't have to define all the fields. If nothing i
 - the application needs to be responsive down to the iPhone 6/7/8 level/size
 - the application styles need to be written with a SCSS preprocessor and need to have some kind of configuration (i.e. variables)
 - the application needs to have some kind of a documentation explaining it's workings
-- the application needs to be in a new GIT repository within a feature branch (the repository can be hosted on a GIT platform of your choice, although we prefer GitHub)
+- the application needs to be in a GIT repository within a feature branch (the repository can be hosted on a GIT platform of your choice, although we prefer GitHub)
 
 Keep in mind that not all the requirements must be met for the challenge to be a success, however, unmet requirements will inevitably decrease the overall evaluation.
 
