@@ -2,7 +2,7 @@
 
 ### Objective
 
-Create an arbitrary multilevel object/JSON tree-like viewer/editor, all in one, something like the below mockups demonstrates:
+Create an arbitrary multilevel object/JSON tree-like viewer/editor, all in one, something like the below mockup demonstrates:
 
 ![Mockup](/mockup.png?raw=true "Mockup")
 
